@@ -1,5 +1,7 @@
 # SMPPEX Telemetry
 
+[![Elixir CI](https://github.com/savonarola/smppex_telemetry/actions/workflows/elixir.yml/badge.svg)](https://github.com/savonarola/smppex_telemetry/actions/workflows/elixir.yml)
+
 Library for tracing SMPP session ([SMPPEX.Session](https://github.com/funbox/smppex/blob/master/lib/smppex/session.ex)) events with [telemetry](https://github.com/beam-telemetry/telemetry).
 
 `SMPPEXTelemetry`:
