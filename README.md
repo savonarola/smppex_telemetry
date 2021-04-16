@@ -44,7 +44,7 @@ SMPPEX.MC.start(
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+The package can be installed
 by adding `smppex_telemetry` to your list of dependencies in `mix.exs`:
 
 ```elixir
@@ -54,6 +54,12 @@ def deps do
   ]
 end
 ```
+
+## Credits
+
+* [Eric Oestrich](https://github.com/oestrich) and [Vinod Kurup](https://github.com/vkurup)
+for the idea and for implementation try;
+* [telemetry](https://github.com/beam-telemetry/telemetry) authors.
 
 ## License
 
