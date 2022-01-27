@@ -44,7 +44,7 @@ defmodule SMPPEXTelemetry.MixProject do
   defp deps do
     [
       {:smppex, ">= 3.0.3"},
-      {:telemetry, "~> 0.4"},
+      {:telemetry, "~> 0.4 or ~> 1.0"},
       {:earmark, "~> 1.4", only: :dev},
       {:ex_doc, "~> 0.23", only: :dev}
     ]
